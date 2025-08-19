@@ -1,4 +1,4 @@
-# 💩 unko packet capturer
+# 💩 unko packet capture
 ![img](/image/gif1.gif)
 
 パケットをうんちにして表示するパケットキャプチャです。
